@@ -24,7 +24,7 @@ The objective is to demonstrate proficiency in applying fundamental programming 
 - [Contributing](#contributing)
 - [License](#license)
 - [References](#references)
-- [Images](#images)
+- [Output](#Output)
 
 ---
 
