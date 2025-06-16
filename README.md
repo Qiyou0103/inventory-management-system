@@ -149,19 +149,19 @@ This project is for educational purposes and  carry a **MIT license**.
 
 ## Output
 
-- ![Index Page](image.png)
-- ![Add Product](image-1.png): 
-- ![Update Product](image-2.png)
-- ![Add Supplier](image-3.png)
-- ![Place Customer Order](image-4.png)
-- ![Place Supplier Order](image-5.png)
-- ![View Inventory](image-6.png)
-- ![Generates Reports](image-7.png)
-   - ![Low Stock Items (< 5 units>)](image-8.png)
-   - ![Product Sales Report](image-9.png)
-   - ![Supplier Order History](image-10.png)
-   - ![Back to Main Menu](image-11.png)
-- ![Exit](image-12.png)
+- ![Index Page](image.png) :1.Index Page
+- ![Add Product](image-1.png):2. Add Product
+- ![Update Product](image-2.png) :3.Update Product
+- ![Add Supplier](image-3.png) :4.Add Supplier
+- ![Place Customer Order](image-4.png) :5.Place Customer Order
+- ![Place Supplier Order](image-5.png) :6.Place Supplier Order
+- ![View Inventory](image-6.png) :7.View Inventory
+- ![Generates Reports](image-7.png) :7.Generates Reports
+   - ![Low Stock Items (< 5 units)](image-8.png) :1.Low Stock Items (< 5 units)
+   - ![Product Sales Report](image-9.png) :2.Product Sales Report
+   - ![Supplier Order History](image-10.png) :3.Supplier Order History
+   - ![Back to Main Menu](image-11.png) :4.Back to Main Menu
+- ![Exit](image-12.png) :8.Exit
 
 
 
