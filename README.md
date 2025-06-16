@@ -151,28 +151,40 @@ This project is for educational purposes and  carry a **MIT license**.
 
 **Index Page**
 - ![Index Page](image.png)
+
 **1. Add Product**
 - ![Add Product](image-1.png)
+
 **2.Update Product**
 - ![Update Product](image-2.png)
+
 **3.Add Supplier**
 - ![Add Supplier](image-3.png)
+
 **4.Place Customer Order**
 - ![Place Customer Order](image-4.png)
+
 **5.Place Supplier Order**
 - ![Place Supplier Order](image-5.png)
+
 **6.View Inventory**
 - ![View Inventory](image-6.png)
+
 **7.Generates Reports**
 - ![Generates Reports](image-7.png)
+
  **1.Low Stock Items (< 5 units)**
    - ![Low Stock Items (< 5 units)](image-8.png)
+
   **2.Product Sales Report**
    - ![Product Sales Report](image-9.png)
+
   **3.Supplier Order History**
    - ![Supplier Order History](image-10.png)
+ 
   **4.Back to Main Menu**
    - ![Back to Main Menu](image-11.png)
+
 **8.Exit**
 - ![Exit](image-12.png) 
 
