@@ -1,0 +1,9 @@
+supplier_id|name|contact
+001|Nvidia|jensenhuang@nvidia
+002|AMD|zendnnsupport@amd.com
+003|Gigabyte (AORUS)|+886-2-8912-4000
+004|ASUS (ROG, TUF)|1300-88-3495
+006|MSI|020 79 1053
+005|Zptac|+44 (0) 1344 – 868688
+008|PNY|011 51387414
+010|ACer|021464123

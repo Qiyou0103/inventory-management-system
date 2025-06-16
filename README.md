@@ -149,8 +149,19 @@ This project is for educational purposes and  carry a **MIT license**.
 
 ## Output
 
-- ![image1](image1): Project description and requirements
-- ![image2](image2): Marking rubrics
-- ![image3](image3): Submission notes
-- ![image](https://github.com/user-attachments/assets/d4e389e8-3c6b-4716-afcb-48bec03da66b)
+- ![Index Page](image.png)
+- ![Add Product](image-1.png): 
+- ![Update Product](image-2.png)
+- ![Add Supplier](image-3.png)
+- ![Place Customer Order](image-4.png)
+- ![Place Supplier Order](image-5.png)
+- ![View Inventory](image-6.png)
+- ![Generates Reports](image-7.png)
+   - ![Low Stock Items (< 5 units>)](image-8.png)
+   - ![Product Sales Report](image-9.png)
+   - ![Supplier Order History](image-10.png)
+   - ![Back to Main Menu](image-11.png)
+- ![Exit](image-12.png)
+
+
 
