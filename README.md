@@ -152,3 +152,5 @@ This project is for educational purposes and  carry a **MIT license**.
 - ![image1](image1): Project description and requirements
 - ![image2](image2): Marking rubrics
 - ![image3](image3): Submission notes
+- ![image](https://github.com/user-attachments/assets/d4e389e8-3c6b-4716-afcb-48bec03da66b)
+
