@@ -147,7 +147,7 @@ This project is for educational purposes and  carry a **MIT license**.
 
 ---
 
-## Images
+## Output
 
 - ![image1](image1): Project description and requirements
 - ![image2](image2): Marking rubrics
