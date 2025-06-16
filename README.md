@@ -136,7 +136,7 @@ See ![image3](image3) for detailed notes.
 
 ## License
 
-This project is for educational purposes and does not carry a software license.
+This project is for educational purposes and  carry a **MIT license**.
 
 ---
 
