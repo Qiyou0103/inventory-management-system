@@ -64,54 +64,6 @@ The system menu includes:
 
 ---
 
-## Marking Rubrics
-
-Refer to the detailed marking rubrics for assessment criteria:
-
-1. **Code Organization and Readability (8 marks)**
-   - Indentation, naming, comments, structure
-
-2. **Functionality and Correctness (30 marks)**
-   - Accurate implementation of all menu options
-
-3. **Data Persistence & File Handling (15 marks)**
-   - Efficient use of text files for storage/retrieval
-
-4. **User Interface & User Experience (12 marks)**
-   - User-friendly, clear prompts, smooth flow
-
-5. **Error Handling & Robustness (6 marks)**
-   - Input validation, graceful error handling, stability
-
-6. **Flowchart (5 marks)**
-   - Clarity, completeness, correct symbols
-
-7. **Report (10 marks)**
-   - Organization, system design, challenges, analysis, improvements
-
-8. **Presentation (10 marks)**
-   - Clarity, demonstration, explanation, insights, time management
-
-See ![image2](image2) for the full rubric.
-
----
-
-## Group & Submission Notes
-
-- Group of up to 5 members
-- Important Dates:
-  - Distribution: 14th October 2024 (Thursday)
-  - Submission: 29th December 2024 (Friday, 11.59 p.m.)
-- Submit via elearn:
-  - Report in PDF
-  - Program source file (.py or .ipynb)
-  - Presentation deck in PDF
-- Each report/presentation must include all member names and IDs
-
-See ![image3](image3) for detailed notes.
-
----
-
 ## How to Run
 
 1. Ensure Python 3.x is installed.
