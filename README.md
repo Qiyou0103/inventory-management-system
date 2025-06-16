@@ -1,5 +1,5 @@
 # inventory-management-system
-The system features product, supplier, and order management, user-friendly menus, file persistence, and report generation. It demonstrates fundamental programming concepts such as file I/O, modular code, and error handling.
+A Python-based Inventory Management System for CSC1024, handling product, supplier, and order management with file-based data storage.
 
 # Python-based Inventory Management System
 
