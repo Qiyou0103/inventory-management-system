@@ -15,8 +15,6 @@ The objective is to demonstrate proficiency in applying fundamental programming 
   - [1. Initial Data Preparation](#1-initial-data-preparation)
   - [2. Program Functionality](#2-program-functionality)
   - [3. Programming Techniques](#3-programming-techniques)
-- [Marking Rubrics](#marking-rubrics)
-- [Group & Submission Notes](#group--submission-notes)
 - [How to Run](#how-to-run)
 - [Contributing](#contributing)
 - [License](#license)
