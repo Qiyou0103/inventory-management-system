@@ -70,7 +70,7 @@ The system menu includes:
 2. Place `products.txt`, `suppliers.txt`, and `orders.txt` in the same directory as the program.
 3. Run the script:
    ```bash
-   python inventory_management.py
+   python Inventory Management System.py
    ```
 4. Follow the menu prompts to use the system.
 
