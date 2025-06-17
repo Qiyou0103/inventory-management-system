@@ -94,7 +94,7 @@ This project is for educational purposes and  carry a **MIT license**.
 
 ## References
 
-- [CSC1024 Programming Principles Assignment Brief]
+- [CSC1024 Programming Principles Assignment Brief.pdf]
 - Python documentation: https://docs.python.org/3/
 
 ---
