@@ -96,6 +96,24 @@ This project is for educational purposes and  carry a **MIT license**.
 
 ## Output
 
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+- ![Index Page](output\image.png)
+- ![Add Product](output\image-1.png)
+- ![Update Product](output\image-2.png)
+- ![Add Supplier](output\image-3.png)
+- ![Place Customer Order](output\image-4.png)
+- ![Place Supplier Order](output\image-5.png)
+- ![View Inventory](output\image-6.png)
+- ![Generates Reports](output\image-7.png)
+   - ![Low Stock Items (< 5 units>)](output\image-8.png)
+   - ![Product Sales Report](output\image-9.png)
+   - ![Supplier Order History](output\image-10.png)
+   - ![Back to Main Menu](output\image-11.png)
+- ![Exit](output\image-12.png)
+=======
+>>>>>>> Stashed changes
 **Index Page**
 - ![Index Page](image.png)
 
@@ -134,6 +152,10 @@ This project is for educational purposes and  carry a **MIT license**.
 
 **8.Exit**
 - ![Exit](image-12.png) 
+<<<<<<< Updated upstream
+=======
+>>>>>>> ca64474c2d8907aa5ca925a7f43362ef2b117dae
+>>>>>>> Stashed changes
 
 
 
