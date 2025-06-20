@@ -97,7 +97,10 @@ This project is for educational purposes and  carry a **MIT license**.
 ## Output
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
 - ![Index Page](output\image.png)
 - ![Add Product](output\image-1.png)
@@ -112,6 +115,9 @@ This project is for educational purposes and  carry a **MIT license**.
    - ![Supplier Order History](output\image-10.png)
    - ![Back to Main Menu](output\image-11.png)
 - ![Exit](output\image-12.png)
+=======
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 **Index Page**
@@ -153,6 +159,10 @@ This project is for educational purposes and  carry a **MIT license**.
 **8.Exit**
 - ![Exit](image-12.png) 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+>>>>>>> ca64474c2d8907aa5ca925a7f43362ef2b117dae
+>>>>>>> Stashed changes
 =======
 >>>>>>> ca64474c2d8907aa5ca925a7f43362ef2b117dae
 >>>>>>> Stashed changes
