@@ -97,43 +97,43 @@ This project is for educational purposes and  carry a **MIT license**.
 ## Output
 
 **Index Page**
-- ![Index Page](output\image.png)
+- ![Index Page](output/image.png)
 
 **1. Add Product**
-- ![Add Product](output\image-1.png)
+- ![Add Product](output/image-1.png)
 
 **2.Update Product**
-- ![Update Product](output\image-2.png)
+- ![Update Product](output/image-2.png)
 
 **3.Add Supplier**
-- ![Add Supplier](output\image-3.png)
+- ![Add Supplier](output/image-3.png)
 
 **4.Place Customer Order**
-- ![Place Customer Order](output\image-4.png)
+- ![Place Customer Order](output/image-4.png)
 
 **5.Place Supplier Order**
-- ![Place Supplier Order](output\image-5.png)
+- ![Place Supplier Order](output/image-5.png)
 
 **6.View Inventory**
-- ![View Inventory](output\image-6.png)
+- ![View Inventory](output/image-6.png)
 
 **7.Generates Reports**
-- ![Generates Reports](output\image-7.png)
+- ![Generates Reports](output/image-7.png)
 
  **1.Low Stock Items (< 5 units)**
-   - ![Low Stock Items (< 5 units)](output\image-8.png)
+   - ![Low Stock Items (< 5 units)](output/image-8.png)
 
   **2.Product Sales Report**
-   - ![Product Sales Report](output\image-9.png)
+   - ![Product Sales Report](output/image-9.png)
 
   **3.Supplier Order History**
-   - ![Supplier Order History](output\image-10.png)
+   - ![Supplier Order History](output/image-10.png)
  
   **4.Back to Main Menu**
-   - ![Back to Main Menu](output\image-11.png)
+   - ![Back to Main Menu](output/image-11.png)
 
 **8.Exit**
-- ![Exit](output\image-12.png) 
+- ![Exit](output/image-12.png) 
 
 
 
